@@ -1,0 +1,123 @@
+  m    padding: 0px;
+    margin: 0px;
+    width:100%;
+}
+.wrapper{
+    width:1000px;
+    padding:15px;
+    background: #dddfd4; 
+    font-family: "Comic Sans MS", sans-serif;
+}
+.header{
+    width: initial;
+    padding:5px;
+    background: #38b0ad;
+}
+.header img{
+    width:5%;
+    padding: 5px;
+}
+.header h1{
+    display: inline-block;
+    vertical-align: top;
+    margin:5px;
+    padding:5px;
+    width: 200px;
+}
+.header ul{
+    display: inline-block;
+    width:700px;
+    list-style-type: none;
+    vertical-align: top;
+    margin-top:20px;
+    text-align: right;
+    /* padding: 5px; */
+}
+.header ul li{
+    display: inline;
+    padding-right: 15px;
+}
+.header ul li a{
+    color: white;
+}
+.main-content{
+    padding:0px;
+    margin: 15px 0px 5px;
+    background: #fbe691;
+    color:white;
+}
+.left-content{
+    width: 255px;
+    margin:15px;
+    padding:15px;
+    background: #153f43;
+    display: inline-block;
+    vertical-align: top;
+}
+.left-content p{ 
+    width: 230px;
+    padding: 10px;
+}
+.right-content{
+    display: inline-block;
+    /* margin:15px; */
+    padding:15px;
+    
+    width:620px;
+}
+.top-part{
+    width:620px;
+    margin-bottom: 30px;
+}
+.box1{
+    display: inline-block;
+    margin-right: 23px;
+    background: #153f43;
+    width:160px;
+    vertical-align: top;
+    padding:10px;
+}
+.right-content p{
+    padding: 10px;
+    width:120px;
+    height:170px;
+}
+.middle-part{
+    margin:30px 0px;
+}
+.box2{
+    background: #153f43;
+    margin-left: auto;
+    margin-right: auto;
+    display:inline-block;
+    width: 280px;
+    vertical-align: top;
+    padding: 10px ;
+    height:200px;
+}
+.box2 p{
+    padding: 20px;
+    width: 260px;
+}
+.bottom-part{
+    background: #153f43;
+    display: block;
+    padding: 10px 10px 3px;
+    
+}
+.bottom-part p{
+    margin:10px 80px 5px 10px;
+    width:544px;
+    height: 150px;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px 10px;
+    background: #38b0ad;
+    width:initial;
+}
+
+span{
+    color:#38b0ad;
+}
